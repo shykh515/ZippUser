@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183108255240",
+    "project_id": "zippuser-d802f",
+    "storage_bucket": "zippuser-d802f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183108255240:android:0ef1336c10661d5dbf1bbd",
+        "android_client_info": {
+          "package_name": "com.craftywebz.zipp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183108255240-fibfauec58j395gusbqfegpf8361vvta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.craftywebz.zipp",
+            "certificate_hash": "60c43b5af3a10fb0881d8b9cc480030c4a9a74b7"
+          }
+        },
+        {
+          "client_id": "183108255240-tfq2le19occ8dtambucqjhgbc1mdkdcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQopkgQrCmhROZym7vhBGap80ZYlFjXjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183108255240-tfq2le19occ8dtambucqjhgbc1mdkdcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

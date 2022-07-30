@@ -1,0 +1,8 @@
+<resources>
+ <string name="app_name">zipp</string>    
+<string name="facebook_app_id">403752378394846</string>
+<string name="fb_login_protocol_scheme">fb403752378394846</string>
+<string name="facebook_client_token">8b9d8eae96887e0d257456177d7fc1ff</string>
+
+
+</resources>
